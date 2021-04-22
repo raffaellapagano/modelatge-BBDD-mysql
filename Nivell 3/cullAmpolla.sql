@@ -1,1 +1,0 @@
-SELECT * FROM `cul d'ampolla`.compra;
